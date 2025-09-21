@@ -67,9 +67,6 @@ for four different types of users - admin, faculty, students and clubs
 9)  Run App Using command 'flutter run'.
 
 **User Guide\...**
-
-1.  Download the [Calee app](https://play.google.com/store/apps/details?id=com.iitropar.calee) from the Play Store.
-
 2.  Login using google account as either a student, faculty member, or admin.
 
 3.  Based on Your College account you will be logged on into respective homepage.
