@@ -1,0 +1,58 @@
+BATCH 2022,,,,,,
+COMPUTER SCIENCE AND ENGINEERING,,,,,,
+COURSES,,,,,,
+S.No.,Course Code,Course Descrption,Slot,L-T-P,Pre-requisite,Course Instructor
+1,CS202,Programming Paradigms and Pragmatics,PC-4,3-1-2-6-4,CS201,Dr.Deepti R. Bathula
+2,CS204,Computer Architecture,PCE-1,3-1-2-6-4,CS203 & GE103,"Dr. Neeraj Goel, Dr. T. V. Kalyan"
+3,MA202,Probability and Statistics,PC-2,3-0-0-6-3,NIL,"Dr. Deepak Singh, Dr. Puneet Pasricha"
+4,BM101,Biology for Engineers,PC- 1, 3-1-0-5-3,,"Dr. Bodhisatwa Das, Dr. Durba Pal"
+5,GE108,Basic Electronics,PC-3,2-2/3-2-13/3-3,NIL,Dr. Abhishek Sharma
+6,GE109,Introduction to Engineering Products,L/P,0-0-2-1-1,NIL," Dr. Reet Kamal Tiwari, Dr. Navin Gopinathan, Dr. Saikat Roy, Dr. Mudasir"
+7,NO104/NS104,NSO- IV/NSS- IV,L/P,0-0-2-1-1,NIL,Dr. T V Kalayan/ Dr. Balesh Kumar
+,,Total Credits( coure courses) ,,19,,
+,,,,,,
+
+BATCH 2021,,,,,,,
+COMPUTER SCIENCE AND ENGINEERING,,,,,,,
+COURSES,,,,,,,
+S.No.,Course Code,Course Descrption,Slot,L–T–P–S– C,Pre-requisite,Course Instructor,
+1,CS304,Computer Networks,PEOE,3-1-2-6-4,CS201,Dr. Sudeepta Mishra & Dr. Basant Subba,
+2,CS305,Software Engineering,PCE-2,3-1-2-6-4,CS301 & CS303,Dr. Abhinandan,
+3,CS306,Theory of Computation,PCDE,3-1-0-5-3,CS101,Dr. Anil Shukla,
+4,HS 301, Industrial Management ,PCPE,3-1-0-5-3,NA,"Dr. Amritesh, Dr. Ravi Kumar",
+5,CP301,Development Engineering Project,L/P,0-0-6-3-3,,Dr. Puneet Goyal,
+6,CP302,Capstone I,L/P,0-0-6-3-3,NIL (Only for those who opted for Addtnl. Internship),Dr. Mukesh Saini,
+,,Total Credits( coure courses) ,,17,,,
+,,,,,,,
+,,,,,,,
+ELECTIVE COURSES ,,,,,,,
+S.No.,Course Code,Course Description,Slot,L–T–P–S– C,Pre-requisite,Course Instructor,
+1,CS101,Data Structures and Algorithms,PCE-1,3-1-2-6-4,,Dr. Apurva Mudgal,
+2,CS535,Introduction to Game Theory and Mechanism Design,PC-1,3-0-0-6-3,,Swapnil Dhamal,
+3,CS539,IoT,PC -3,3-0-0-6-3,,Jagpreet Singh,
+4,CS549,IoT Lab,L/P,0-0-2-1-1,,Jagpreet Singh and Sujata Pal,
+5,CS546,Introduction to Agriculture Cyber Physiscal Systems ,PEOE,2-0-2-5-3,,Mukesh Saini and Neeraj Goel,
+6,CS531,Memory Systems and Architecture,PC -2,3-0-0-6-3,,TV Kalyan,
+7,CS536,Graph Theory,PCE-3,3-2-0-4-3,,Anil Shukla,
+8,CS503,Machine Learning,PC - 4,3-0-2-7-4,,Dr. Shweta Jain & Dr. Shashi,
+10,CS533,Reinforcement Learning,PC -2,3-0-0-6-3,Probability & Linear Algebra,Shashi,
+11,CS543,Reinforcement Learning Lab,L/P,0-0-2-1-1,Probability & Linear Algebra,Shashi,
+12,CS622,Advanced Image Processing,HSPE,2-0-2-5-3,CS517/CS504,Puneet ,
+13,HS452,Fundamentals of Linguistics,PCE-3,3-0-0,,Somdev Kar,
+14,Hs404,Indian Urbanism: the City and the Culture,HSPE,3-0-0,,Dibyakusum Ray,
+15,HS495,Emotion Regulation,PCE-3,3-0-0-6-3,,Parwinder Singh,
+16,HS472,International Economics and Finance,HSME,3-0-0-6-3,,Dr. Smruti Ranjan Behra,
+17,HS 405,Chinese A1,PEOE,3-0-0-6-3,,Dr. Somdev Kar,
+18,PH457,Engineering Photonics,HSME,3-0-0-6-3,,Dr.Danveer Singh,
+19,PH451,Thermal and Statistical Physics,HSPE,3-1-0-5-3,,Dr.Shankhadeep Chakrabortty,
+20,PH560,SEMICONDUCTOR PHYSICS,PCDE,3-0-0-6-3,,Dr.Vivekanand Shukla,
+21,PH556,PARTICLE & RADIATION DETECTORS,PCPE,3-0-0-6-3,,Dr.Pushpendra Pal Singh,
+22,PH612,THIN FILMS SCIENCE AND TECHNOLOGY,PEOE,3-0-0-6-3,,Dr.Debangsu Roy,
+23,PH554,Nonlinear Optics,HSME,3-0-0-6-3,,Dr Vishwa Pal,
+24,PH563,Quantum optics-1,PEOE,3-0-0-6-3,,Dr.Girish Kulkarni,
+25,MA703,Computational PDE,PC-4,3-1-2-6-4,PC-4,Prof. Jitendra Kumar,
+26,MA628,Financial Derivatives Pricing,PC-1,3-0-2-7-4,PC-1,Dr. Arun Kumar,
+27,CY458,BIO MATERIALS,HSME,3-0-0-6-3,,Dr. Yashveer singh,
+28,CY516,Elementary Principles of Equilibrium Statistical Mechanics and Stochastic Processes,PCDE,3-0-0-6-3,,Dr. Sudipta Sinha,
+29,CY517,Chemistry of Dyes and Drugs,PEOE,3-0-0-6-3,,Dr. Soumyajit Das & Dr. Anupam Bandyopadhyay,
+30,MA421,Topics in Complex Analysis,PC-1,3-1-0-5-3,PC-1,Dr. Sairam Kaliraj,"3rd Year (MnC, EE & CSE) This is required for Minor"
