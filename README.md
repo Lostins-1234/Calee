@@ -82,5 +82,5 @@ for four different types of users - admin, faculty, students and clubs
 8. Explore the app\'s features and use it to manage your college schedules and events easily.
 
 **More Details :**
-[DEP25.G04.Calee_ppt3_Documentation](https://docs.google.com/presentation/d/1rmjhpw4NFtFqu2eAX1lO0rGg_M3twdwv2P4l4VTgjKE/edit?usp=sharing)
+[Documentation](https://docs.google.com/presentation/d/1_a9r1ik6Y_0u7EHI4jYRfNEB4sSYf7BQ/edit?usp=drive_link&ouid=116934666020867018881&rtpof=true&sd=true)
 
